@@ -1,21 +1,12 @@
-#Setting up the visual stduio code for Windows 
+#Setting up the visual stduio OpenGL(Binaries are in the repo folder) for Windows 
 
-Download prebuild binaries and link it
 
-![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/444f0861-40a2-4af8-b55c-c576f13421e4)
-![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/8fee9e06-d605-4258-b09b-53e5f7e664e5)
-![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/5969a421-43d7-47ea-b360-c328f3596dd0)
-
+![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/110fa47f-76d3-4206-8555-b00c5119517e)
+![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/fcef14bc-df1d-4f0e-ae68-8ce2c6797876)
+![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/142552b8-28c3-4b76-9194-f7c164c680f1)
 
 
 
-
-
-
-
-
-Now for the glew for Modern OpenGL use the same method for adding library 
-and use this preprocessors 
 
 ![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/91fda2da-6364-4d12-9bb6-55ecdcb23f16)
 
