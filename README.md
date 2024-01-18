@@ -1,4 +1,4 @@
-#Setting up the visual stduio OpenGL(Binaries are in the repo folder) for Windows 
+**Setting up the visual stduio OpenGL(Binaries are in the repo folder) for Windows**
 
 
 ![image](https://github.com/anurag51233/OpenGLAPP/assets/67794429/110fa47f-76d3-4206-8555-b00c5119517e)
